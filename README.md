@@ -1,6 +1,6 @@
 Code used for data-analysis of the TZO project, part of the ZonMw-TopZorg (TZO) grant nr. 10070022010004 
 
-** FULL ARTICLE UNDER SUBMISSION: Joost Biere, Brenda E. Groen, Carmen J. Ensink, Jorik Nonnekes, Noël L.W. Keijsers: Gait speed-dependent modulation of paretic versus non-paretic propulsion in persons with chronic stroke
+**FULL ARTICLE UNDER SUBMISSION:** Joost Biere, Brenda E. Groen, Carmen J. Ensink, Jorik Nonnekes, Noël L.W. Keijsers: Gait speed-dependent modulation of paretic versus non-paretic propulsion in persons with chronic stroke
 
 Main script to read and analyse optical motion capture data (VICON based)
 Possibility to include analog (forceplate) data
